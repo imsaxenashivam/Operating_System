@@ -23,4 +23,7 @@ Created an array rem_bt[] to keep track of remaining
        (ii) rem_bt[i] = 0; // This process is over
        Once we have waiting times, we can compute turn around time tat[i] of a process as sum of waiting and burst times, i.e., wt[i] + bt[i]
         Below is implementation of above steps.
- 
+ ![eb321c6c-5530-48e1-9345-35aa296e3e1c](https://user-images.githubusercontent.com/78745670/145346946-8c64ca3f-8d79-4d22-b84b-31f5acff101c.jpg)
+ ##### Fork #####
+  Parent and child process run same code and Parent process is executed first
+  ![2021-12-09 12_04_48-EUfRiM - Online C++ Compiler   Debugging Tool - Ideone com](https://user-images.githubusercontent.com/78745670/145347146-9cd0bba2-c6cc-4e2d-ae83-61163030efab.png)
